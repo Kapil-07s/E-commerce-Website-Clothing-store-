@@ -70,3 +70,8 @@ ecommerce-website/
 ## ⭐ Feedback
 
 If you like this project, feel free to give it a ⭐ on GitHub!
+
+## ⚠️ License
+
+This project is protected.  
+You are not allowed to copy, reuse, or distribute this code without permission.
