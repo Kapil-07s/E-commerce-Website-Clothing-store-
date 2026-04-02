@@ -42,11 +42,13 @@ ecommerce-website/
 ---
 
 ## 📸 Screenshots
-
+<img width="3199" height="1745" alt="Image" src="https://github.com/user-attachments/assets/9e769845-5d9e-4ae8-a157-594e1c9c9eb8" />
+<img width="3199" height="1749" alt="Image" src="https://github.com/user-attachments/assets/de49c2cd-5a73-44de-a895-7d8c84d32e53" />
 <img width="3183" height="1739" alt="Image" src="https://github.com/user-attachments/assets/c4f11177-0428-49e6-9b37-07f641e8f80a" />
 <img width="3199" height="1749" alt="Image" src="https://github.com/user-attachments/assets/9ee8ac20-37b6-4426-9d54-494da29ddd8a" />
-<img width="3199" height="1749" alt="Image" src="https://github.com/user-attachments/assets/de49c2cd-5a73-44de-a895-7d8c84d32e53" />
-<img width="3199" height="1745" alt="Image" src="https://github.com/user-attachments/assets/9e769845-5d9e-4ae8-a157-594e1c9c9eb8" />
+<img width="3199" height="1749" alt="Image" src="https://github.com/user-attachments/assets/9ee8ac20-37b6-4426-9d54-494da29ddd8a" />
+
+
 
 ---
 
