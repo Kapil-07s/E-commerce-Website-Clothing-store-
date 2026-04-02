@@ -6,7 +6,7 @@ This project showcases a modern UI design with interactive features for a smooth
 ---
 
 ## 🚀 Live Demo
-🔗 https://yourusername.github.io/ecommerce-website/
+🔗 https://kapil-07s.github.io/E-commerce-Website-Clothing-store-/
 
 ---
 
@@ -64,8 +64,7 @@ ecommerce-website/
 ## 🙋‍♂️ Author
 
 - Your Name
-- GitHub: https://github.com/yourusername
-
+- GitHub: https://github.com/kapil-07s
 ---
 
 ## ⭐ Feedback
